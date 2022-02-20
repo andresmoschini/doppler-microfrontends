@@ -52,3 +52,33 @@ code {
 .image-scaled img {
   width: 100%;
 }
+.image-500h img {
+  height: 500px;
+}
+.image-630h img {
+  height: 630px;
+}
+.left-column-b {
+  width: 50%;
+  float: left;
+}
+.right-column-b {
+  width: 50%;
+  float: right;
+}
+
+.black-center-200p {
+  width: 100%;
+  background-color: black;
+  text-align: center;
+}
+
+.black-center-200p img{
+  height: 200px;
+}
+
+.black {
+  background: #000;
+  color: #777872;
+  text-shadow: 0 0 20px #333;
+}
