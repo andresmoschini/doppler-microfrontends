@@ -490,6 +490,7 @@ layout: false
 name: fin
 layout: true
 class: center, middle, black
+background-image: url(end.gif)
+background-size: contain
 ---
-
-.image-scaled[![The End](theend.jpg)]
+# The end
